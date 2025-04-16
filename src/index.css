@@ -1,0 +1,7 @@
+ul, ol {
+    list-style: none;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.5);
+}
